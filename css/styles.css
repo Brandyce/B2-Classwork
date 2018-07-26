@@ -13,7 +13,14 @@
   padding-bottom: 20px;
   background: pink;
 }
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+}
 
+.custom-class {
+  background: pink;
+}
 @media screen and (min-width:768px) {
 
 }
